@@ -8,7 +8,7 @@ This repo contains the code for RCE POC via malicious plugin in discourse
 
 1. Go to your Discourse plugins directory
 
-`cd ~/.rbenv/discourse/plugins`
+ `cd ~/.rbenv/discourse/plugins`
 
 2. Clone your GitHub plugin
 Replace the URL with your repo if it's different:
